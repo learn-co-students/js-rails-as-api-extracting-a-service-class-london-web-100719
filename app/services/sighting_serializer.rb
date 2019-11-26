@@ -24,5 +24,6 @@ def to_serialized_json
     :undated_at
   ]
 )
+end
 
 end
